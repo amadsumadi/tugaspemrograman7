@@ -1,8 +1,5 @@
 # tugaspemrograman7
-## NAMA : AMAD SUMADI
-NIM    : 312110525
-KELAS  : TI.21.CA1
-PRODI  : TEKNIK INFORMATIKA 
+## NAMA : AMAD SUMADI NIM    : 312110525 KELAS  : TI.21.CA1 PRODI  : TEKNIK INFORMATIKA 
 ### Latihan1
 berikut ini adalah langkah langkah dari latihan 1.
 ![gambar 1](sslatihan1/tugas71.png)
