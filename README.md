@@ -1,11 +1,16 @@
 # tugaspemrograman7
 ## NAMA : AMAD SUMADI NIM    : 312110525 KELAS  : TI.21.CA1 PRODI  : TEKNIK INFORMATIKA 
-### LATIHAN1 PERULANGAN 2
+### LATIHAN 1 PERULANGAN 2
 berikut adalah langkah langkah mengerjakan latihan 1 perulangan 2
 ![gambar 3](sslatihan1perulangan2/sslatihan11perulangan2.png)
 dan ini adalah hasil dari program tersebut
 ![gambar 4](sslatihan1perulangan2/sslatihan12perulangan2.png)
-#### LATIHAN1 PERULANGAN 3
+#### LATIHAN 2 PERULANGAN 2
+berikut adalah langkah langkah membuat program mengurutkan bilangan pada latihan 2
+![gambar 5](sslatihan2perulangan2/sslatihan21perulangan2.png)
+dan dibawah ini adalah hasil dari langkah langkah tersebut
+![gambar 6](sslatihan2perulangan2/sslatihan22perulangan2.png)
+##### LATIHAN 1 PERULANGAN 3
 berikut ini adalah langkah langkah dari latihan 1.
 ![gambar 1](sslatihan1/tugas71.png)
 adapun hasilnya nanti akan muncul gambar seperti di bawah ini kemudian setelah mungkin gambar tersbut lalu masukkan angka sesuka anda.
