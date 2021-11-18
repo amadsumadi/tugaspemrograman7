@@ -15,3 +15,8 @@ berikut ini adalah langkah langkah dari latihan 1.
 ![gambar 1](sslatihan1/tugas71.png)
 adapun hasilnya nanti akan muncul gambar seperti di bawah ini kemudian setelah mungkin gambar tersbut lalu masukkan angka sesuka anda.
 ![gambar 2](sslatihan1/tugas72.png) 
+###### LATIHAN 2 PERULANGAN 3
+berikut ini adalah langkah langkah dari latia 2 perulangan 2
+![gambar 7](sslatihan2perulangan3/sslatihan21perulangan3.png)
+dan ini adalah hasil dari program tersebut
+![gambar 8](sslatihan2perulangan3/sslatihan22perulangan3.png)
